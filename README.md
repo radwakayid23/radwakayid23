@@ -1,28 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Radwa Kayid
 
+### 🚀 Software Engineer & Product Designer
 
-About Me
+Passionate about building intelligent products and crafting user-centered experiences. Currently exploring Artificial Intelligence and Machine Learning while designing and developing impactful digital solutions.
 
-I'm Radwa Kayid, a Software Engineer and Product Designer passionate about building impactful digital products and creating meaningful user experiences.
+## 🌱 Currently Learning
 
-Currently Working On
-Artificial Intelligence (AI)
-Machine Learning
-AI-powered applications and products
+* Artificial Intelligence (AI)
+* Machine Learning
+* Deep Learning
+* AI Product Development
 
-Tools & Technologies
-Python
-JavaScript
-Git & GitHub
-Figma
-HTML & CSS
-Machine Learning Frameworks
-AI Development Tools
+## 🛠️ Tech Stack
 
-Connect With Me
+### Languages
 
-📧 Email: radwakayid2020@gmail.com
+`Python` `JavaScript` `HTML` `CSS`
 
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/radwa-kayid/)
+### Design
+
+`Figma` `Design Systems` `UX Research` `Prototyping`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
+
+### AI & ML
+
+`NumPy` `Pandas` `Scikit-learn` `TensorFlow` `PyTorch`
+
+## 📫 Connect With Me
+
+* LinkedIn: http://www.linkedin.com/in/radwa-kayid
+* Email: radwakayid2020@gmail.com
+
+---
+
+### 💡 Interests
+
+#ArtificialIntelligence #MachineLearning #ProductDesign #UXDesign #Python #DeepLearning #CreativeCoding #Innovation
 
 
