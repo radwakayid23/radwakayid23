@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Radwa%20Kayid&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=220&section=header&text=Radwa%20Kayid&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Software Engineer • Product Designer • AI Enthusiast</strong><br>
-  Building intelligent and user-centered digital experiences.
+  <strong>Software Engineer • Product Designer • AI Engineer</strong><br>
+  Designing and building intelligent digital experiences at the intersection of AI and product thinking.
 </p>
 
 ---
 
 # 👋 About Me
 
-I'm **Radwa Kayid**, a Software Engineer and Product Designer passionate about blending **design, technology, and AI** to create meaningful digital products.
+I'm **Radwa Kayid**, a Software Engineer and Product Designer focused on building **user-centered, AI-powered products** that solve real problems and create meaningful experiences.
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Currently Exploring
 
 * Artificial Intelligence (AI)
 * Machine Learning
-* Building AI-powered products & experiences
+* AI Product Development
+* Intelligent UX Systems
 
 ---
 
@@ -39,6 +40,7 @@ I'm **Radwa Kayid**, a Software Engineer and Product Designer passionate about b
 ![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge\&logo=figma\&logoColor=white)
 ![UX Design](https://img.shields.io/badge/UX%20Design-purple?style=for-the-badge)
 ![Product Design](https://img.shields.io/badge/Product%20Design-pink?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-blueviolet?style=for-the-badge)
 
 ---
 
@@ -56,6 +58,30 @@ I'm **Radwa Kayid**, a Software Engineer and Product Designer passionate about b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🚀 Top Projects
+
+<p align="center">
+
+<a href="https://github.com/your-username/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/your-username/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/your-username/project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/your-username/project-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
 
@@ -90,5 +116,5 @@ I'm **Radwa Kayid**, a Software Engineer and Product Designer passionate about b
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile ✨
+  ✨ Designed & built with passion ✨
 </p>
