@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Radwa%20Kayid&fontSize=38&fontColor=ffffff" />
+  <h1>Radwa Kayid</h1>
+  <p>Software Engineer • Product Designer • AI Engineer</p>
 </p>
 
 ---
