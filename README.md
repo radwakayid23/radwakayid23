@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=160&section=header&text=Radwa%20Kayid&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <h1>Radwa Kayid</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Product+Designer;AI+Engineer" />
 </p>
-
 ---
 
 # 👋 About Me
