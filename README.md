@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=220&section=header&text=Radwa%20Kayid&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <strong>Software Engineer • Product Designer • AI Engineer</strong><br>
-  Designing and building intelligent digital experiences at the intersection of AI and product thinking.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Radwa%20Kayid&fontSize=38&fontColor=ffffff" />
 </p>
 
 ---
