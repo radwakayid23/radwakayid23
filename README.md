@@ -1,6 +1,5 @@
 <p align="center">
-  <h1>Radwa Kayid</h1>
-  <p>Software Engineer • Product Designer • AI Engineer</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Radwa+Kayid;Software+Engineer;Product+Designer;AI+Engineer" />
 </p>
 
 ---
