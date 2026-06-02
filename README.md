@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Radwa+Kayid;Software+Engineer;Product+Designer;AI+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=160&section=header&text=Radwa%20Kayid&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
