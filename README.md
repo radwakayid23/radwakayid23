@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=500&duration=1200&color=00F2FE&center=true&vCenter=true&width=650&repeat=true&lines=Radwa+Kayid;Software+Engineer;Product+Designer;AI+Engineer;Building+AI-powered+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=400&duration=1000&color=38BDF8&center=true&vCenter=true&width=700&repeat=true&lines=Radwa+Kayid;Software+Engineer;Product+Designer;AI+Engineer;Design+%2B+AI+Builder" />
 </p>
 ---
 
