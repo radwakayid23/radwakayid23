@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**radwakayid23/radwakayid23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Radwa Kayid, a Software Engineer and Product Designer passionate about building impactful digital products and creating meaningful user experiences.
+
+Currently Working On
+Artificial Intelligence (AI)
+Machine Learning
+AI-powered applications and products
+
+Tools & Technologies
+Python
+JavaScript
+Git & GitHub
+Figma
+HTML & CSS
+Machine Learning Frameworks
+AI Development Tools
+
+Connect With Me
+📧 Email: radwakayid2020@gmail.com
+💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/radwa-kayid/)
+
+
